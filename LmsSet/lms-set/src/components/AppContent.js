@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     display: 'grid',
     gridRowGap: 16 + 'px',
     margin: 'auto',
-    maxWidth: 960,
+    maxWidth: 1200,
     padding: 16,
   }
 })
